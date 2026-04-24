@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Science Portfolio Quest
 
 Production-ready, gamified portfolio inspired by Codédex aesthetics using **React + Vite + Tailwind CSS + Framer Motion**.
@@ -59,3 +60,6 @@ Output folder: `dist`
 - Dark fantasy neon dashboard style
 - Gamified sections: Story Mode, Missions, Skill Tree, Badges
 - Animated XP + level progression and unlock-style cards
+=======
+# anjnesh111-code.github.io
+>>>>>>> 023ca2815a354d70ceb27714dfdedd8d99531a02
